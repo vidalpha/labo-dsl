@@ -3,6 +3,8 @@ pluginManagement {
     repositories {
         gradlePluginPortal()
     }
+
+    includeBuild("gradle/plugins")
 }
 
 rootProject.name = "DSL"
@@ -12,3 +14,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
+//include("groovy-ast-transform")
