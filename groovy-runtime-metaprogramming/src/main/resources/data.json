@@ -1,0 +1,38 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "lastName": "Owen",
+      "firstName": "Ken",
+      "age": 32
+    },
+    {
+      "id": 2,
+      "lastName": "Doe",
+      "firstName": "John",
+      "age": 5
+    },
+    {
+      "id": 3,
+      "lastName": "Pan",
+      "firstName": "Peter",
+      "age": 23
+    },
+    {
+      "id": 4,
+      "lastName": "Pan",
+      "firstName": "Craig",
+      "age": 10
+    }
+  ],
+  "books" : [
+    {
+      "id": 1,
+      "title": "Design Patterns"
+    },
+    {
+      "id": 1,
+      "title": "Master metaprogramming with groovy"
+    }
+  ]
+}
