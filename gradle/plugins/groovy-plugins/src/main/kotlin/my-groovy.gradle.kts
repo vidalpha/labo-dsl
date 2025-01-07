@@ -3,5 +3,5 @@ plugins {
 }
 
 dependencies {
-    implementation("org.apache.groovy:groovy:4.0.14")
+    implementation("org.apache.groovy:groovy-all:4.0.14")
 }
