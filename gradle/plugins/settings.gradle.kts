@@ -3,3 +3,4 @@ dependencyResolutionManagement {
 }
 
 include("groovy-plugins")
+include("java-plugins")
