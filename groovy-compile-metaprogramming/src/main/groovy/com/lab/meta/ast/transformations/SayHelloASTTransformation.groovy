@@ -1,4 +1,4 @@
-package com.lab.ast.transformations
+package com.lab.meta.ast.transformations
 
 import groovy.transform.CompileStatic
 import org.codehaus.groovy.ast.ASTNode

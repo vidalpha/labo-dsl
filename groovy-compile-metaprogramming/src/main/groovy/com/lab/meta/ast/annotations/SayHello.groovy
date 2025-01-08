@@ -1,4 +1,4 @@
-package com.lab.ast.annotations
+package com.lab.meta.ast.annotations
 
 import org.codehaus.groovy.transform.GroovyASTTransformationClass
 
@@ -9,7 +9,7 @@ import java.lang.annotation.Target
 
 @Retention(RetentionPolicy.RUNTIME)
 @Target([ElementType.METHOD])
-@GroovyASTTransformationClass(["com.lab.ast.transformations.SayHelloASTTransformation"])
+@GroovyASTTransformationClass(["com.lab.meta.ast.transformations.SayHelloASTTransformation"])
 @interface SayHello {
     String name() default "Ignace"
 }
