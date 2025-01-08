@@ -15,4 +15,6 @@ dependencyResolutionManagement {
     }
 }
 
-//include("groovy-ast-transform")
+include("mapstruct-test")
+include("annotation-processor")
+include("annotation-user")
