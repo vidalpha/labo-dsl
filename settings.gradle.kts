@@ -15,4 +15,5 @@ dependencyResolutionManagement {
     }
 }
 
-//include("groovy-ast-transform")
+include("dsl-core")
+include("use-case")

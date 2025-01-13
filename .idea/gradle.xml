@@ -21,9 +21,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/dsl-core" />
             <option value="$PROJECT_DIR$/gradle/plugins" />
             <option value="$PROJECT_DIR$/gradle/plugins/groovy-plugins" />
             <option value="$PROJECT_DIR$/gradle/plugins/java-plugins" />
+            <option value="$PROJECT_DIR$/use-case" />
           </set>
         </option>
       </GradleProjectSettings>
