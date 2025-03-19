@@ -21,9 +21,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/annotation-processor" />
+            <option value="$PROJECT_DIR$/annotation-user" />
             <option value="$PROJECT_DIR$/gradle/plugins" />
             <option value="$PROJECT_DIR$/gradle/plugins/groovy-plugins" />
             <option value="$PROJECT_DIR$/gradle/plugins/java-plugins" />
+            <option value="$PROJECT_DIR$/mapstruct-test" />
           </set>
         </option>
       </GradleProjectSettings>
