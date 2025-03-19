@@ -16,3 +16,12 @@ def static printHelloWorld() {
 }
 
 ```
+
+**Console**
+
+```
+> Groovy custom AST transformations
+> Starting printHelloWorld
+> Hello, World!
+> Ending printHelloWorld
+```
