@@ -15,4 +15,4 @@ dependencyResolutionManagement {
     }
 }
 
-//include("groovy-ast-transform")
+include("javapoet")
