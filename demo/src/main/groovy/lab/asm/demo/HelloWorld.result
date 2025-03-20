@@ -1,0 +1,8 @@
+package lab.asm.demo;
+
+public class HelloWorld {
+    @Override
+    public String toString() {
+        return "This is a HelloWorld object.";
+    }
+}

@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 }
 
 include("generate-design-patterns")
+include("demo")
