@@ -1,20 +1,22 @@
 plugins {
     id("my-java-base")
-    id("antlr")
+    //id("antlr")
 //    id("idea")
 }
 
-group = "com.lab.antlr"
+group = "com.lab.antlr4"
 version = "1.0"
 
-dependencies {
-    implementation("org.antlr:antlr4:4.13.2")
-    compileOnly("org.antlr:antlr4-runtime:4.13.2")
-}
+//dependencies {
+//    implementation("org.antlr:antlr4:4.13.2")
+//    compileOnly("org.antlr:antlr4-runtime:4.13.2")
+//}
 
-generateGrammarSource {
-    outputDirectory = file('build/generated-src/antlr/main')
-}
+//generateGrammarSource {
+//    maxHeapSize = "128m"
+//    //outputDirectory = file('build/generated-src/antlr/main')
+//    // arguments += ["-package", "com.lab.antlr4", "-visitor", "-long-messages"]
+//}
 
 
 //generateGrammarSource {
