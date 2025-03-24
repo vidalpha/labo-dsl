@@ -21,6 +21,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/antlr" />
             <option value="$PROJECT_DIR$/gradle/plugins" />
             <option value="$PROJECT_DIR$/gradle/plugins/groovy-plugins" />
             <option value="$PROJECT_DIR$/gradle/plugins/java-plugins" />
