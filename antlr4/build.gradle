@@ -1,45 +1,25 @@
 plugins {
     id("my-java-base")
-    //id("antlr")
+    id("antlr")
 //    id("idea")
 }
 
-group = "com.lab.antlr4"
+group = "com.lab.lang"
 version = "1.0"
 
-//dependencies {
-//    implementation("org.antlr:antlr4:4.13.2")
-//    compileOnly("org.antlr:antlr4-runtime:4.13.2")
-//}
+dependencies {
+    antlr("org.antlr:antlr4:4.5")
+}
 
-//generateGrammarSource {
-//    maxHeapSize = "128m"
-//    //outputDirectory = file('build/generated-src/antlr/main')
-//    // arguments += ["-package", "com.lab.antlr4", "-visitor", "-long-messages"]
-//}
+// Generates the source files for all production ANTLR grammars.
+generateGrammarSource {
+    maxHeapSize = "64m"
 
+    // Repertoire de génération. By default: build/generated-src/antlr/main
+     outputDirectory = file("src/main/java/com/lab/parser")
 
-//generateGrammarSource {
-//    maxHeapSize = "128m"
-//
-//    arguments += ["-package", "com.lab.antlr.gram.Calc", "-visitor", "-long-messages"]
-//}
-//
-//compileJava{
-//    dependsOn generateGrammarSource
-//}
-
-//sourceSets {
-//    generated {
-//        java.srcDir 'generated-src/antlr/main/'
-//    }
-//}
-//
-//compileJava.source sourceSets.generated.java, sourceSets.main.java
-
-//clean{
-//    delete "generated-src"
-//}
+    arguments += ["-visitor", "-long-messages"]
+}
 
 //idea {
 //    module {

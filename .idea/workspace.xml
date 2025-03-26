@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9f67d9d-e8ec-4977-b9e2-a20971b95f6e" name="Changes" comment="Ajout de plugin convention : java-plugins pour gérer les dépendances communes d'un projet java">
+      <change beforePath="$PROJECT_DIR$/antlr4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/antlr4/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/antlr4/src/main/antlr/Calc.g4" beforeDir="false" afterPath="$PROJECT_DIR$/antlr4/src/main/antlr/Calc.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/annotation">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/groovy-annotation">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/mapstruct-test">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/annotation-user">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/annotation-processor">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/generate-design-patterns">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/demo">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/antlr4">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/antlr">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="javapoet" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vidalpha&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vidalpha/labo-dsl.git&quot;,
+    &quot;accountId&quot;: &quot;e7dd8d94-6ce8-4a8f-a44e-db60282ac350&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2r44DhvQzpMsLWecp6QdHISp1fY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build labo-dsl.executor": "Run",
+    "Gradle.labo-dsl [assemble].executor": "Run",
+    "Gradle.labo-dsl [buildDependents].executor": "Run",
+    "Gradle.labo-dsl [buildNeeded].executor": "Run",
+    "Gradle.labo-dsl [build].executor": "Run",
+    "Gradle.labo-dsl [classes].executor": "Run",
+    "Gradle.labo-dsl [clean].executor": "Run",
+    "Gradle.labo-dsl [compileJava].executor": "Run",
+    "Gradle.labo-dsl [dependencies].executor": "Run",
+    "Gradle.labo-dsl [generateGrammarSource].executor": "Run",
+    "Gradle.labo-dsl [idea].executor": "Run",
+    "Gradle.labo-dsl.executor": "Run",
+    "Gradle.labo-dsl:annotation [:annotation:com.lab.ast.Main.main()].executor": "Run",
+    "Gradle.labo-dsl:annotation-processor [build].executor": "Run",
+    "Gradle.labo-dsl:annotation-user [:annotation-user:com.lab.example.Application.main()].executor": "Run",
+    "Gradle.labo-dsl:annotation-user [assemble].executor": "Run",
+    "Gradle.labo-dsl:annotation-user [build].executor": "Run",
+    "Gradle.labo-dsl:annotation-user [clean].executor": "Run",
+    "Gradle.labo-dsl:antlr [:antlr:com.lab.antlr.Main.main()].executor": "Run",
+    "Gradle.labo-dsl:antlr4 [:antlr4:com.lab.antlr4.Main.main()].executor": "Run",
+    "Gradle.labo-dsl:antlr4 [:antlr4:com.lab.lang.CalcInterpreter.main()].executor": "Run",
+    "Gradle.labo-dsl:antlr4 [:antlr4:com.lab.lang.Main.main()].executor": "Run",
+    "Gradle.labo-dsl:demo [clean].executor": "Run",
+    "Gradle.labo-dsl:generate-design-patterns [:generate-design-patterns:lab.asm.patterns.strategy.Application.main()].executor": "Run",
+    "Gradle.labo-dsl:generate-design-patterns [:generate-design-patterns:lab.asm.patterns.strategy.asm.StrategyPatternASM.main()].executor": "Run",
+    "Gradle.labo-dsl:groovy-annotation [:groovy-annotation:com.lab.ast.Main.main()].executor": "Run",
+    "Gradle.labo-dsl:groovy-annotation [build].executor": "Run",
+    "Gradle.labo-dsl:javapoet [:javapoet:lab.javapoet.demo.Main.main()].executor": "Run",
+    "Gradle.labo-dsl:mapstruct-test [compileJava].executor": "Run",
+    "Gradle.labo-dsl:use-case [:use-case:Main.main()].executor": "Run",
+    "Groovy.Application.executor": "Run",
+    "Groovy.Main (1).executor": "Run",
+    "Groovy.Main.executor": "Run",
+    "Groovy.Script.executor": "Run",
+    "Groovy.featue.executor": "Run",
+    "Groovy.imports.executor": "Run",
+    "Groovy.jenkinsfile.executor": "Run",
+    "Groovy.settings.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "gradle-antlr4-test",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vaiazonh/Documents/Projects/labo-dsl/src/main/antlr4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vaiazonh\Documents\Projects\labo-dsl\src\main\antlr4" />
+      <recent name="C:\Users\vaiazonh\Documents\Projects\labo-dsl" />
+      <recent name="C:\Users\vaiazonh\Documents\Projects\labo-dsl\mapstruct-test" />
+      <recent name="C:\Users\vaiazonh\Documents\Projects\labo-dsl\annotation-user" />
+      <recent name="C:\Users\vaiazonh\Documents\Projects\labo-dsl\gradle\plugins\java-plugins\src\main\kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vaiazonh\Documents\Projects\labo-dsl\antlr4\src\main\antlr" />
+      <recent name="C:\Users\vaiazonh\Documents\Projects\labo-dsl\antlr4\src\main" />
+      <recent name="C:\Users\vaiazonh\Documents\Projects\labo-dsl\antlr4" />
+      <recent name="C:\Users\vaiazonh\Documents\Projects\labo-dsl" />
+      <recent name="C:\Users\vaiazonh\Documents\Projects\labo-dsl\antlr\src\main\antlr4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lab.quickstart" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lab.lang.Main" />
+      <module name="DSL.antlr4.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lab.lang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labo-dsl [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="labo-dsl [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="labo-dsl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="labo-dsl" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.labo-dsl [build]" />
+      <item itemvalue="Gradle.labo-dsl [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.labo-dsl [build]" />
+        <item itemvalue="Gradle.labo-dsl [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f67d9d-e8ec-4977-b9e2-a20971b95f6e" name="Changes" comment="" />
+      <created>1735804895609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735804895609</updated>
+      <workItem from="1735804896755" duration="12107000" />
+      <workItem from="1736156087815" duration="117509000" />
+      <workItem from="1736536470296" duration="22814000" />
+      <workItem from="1737388699487" duration="1299000" />
+      <workItem from="1741189375713" duration="7145000" />
+      <workItem from="1741986334595" duration="459000" />
+      <workItem from="1741987070344" duration="6390000" />
+      <workItem from="1742204725293" duration="14314000" />
+      <workItem from="1742304401961" duration="11411000" />
+      <workItem from="1742381088853" duration="19333000" />
+      <workItem from="1742468777056" duration="10583000" />
+      <workItem from="1742481439060" duration="308000" />
+      <workItem from="1742812052329" duration="167000" />
+      <workItem from="1742812228436" duration="10056000" />
+      <workItem from="1742829512229" duration="25990000" />
+    </task>
+    <task id="LOCAL-00001" summary="Mise en place d'un système de Dynamic Finders par metaprogrammation au runtime">
+      <option name="closed" value="true" />
+      <created>1736259589694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736259589694</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mise en place d'un système de Dynamic Finders par metaprogrammation au runtime">
+      <option name="closed" value="true" />
+      <created>1736266387921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736266387921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <option name="closed" value="true" />
+      <created>1736327505588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736327505589</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update gradle.xml">
+      <option name="closed" value="true" />
+      <created>1736327622709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736327622709</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ajout de plugin convention : java-plugins pour gérer les dépendances communes d'un projet java">
+      <option name="closed" value="true" />
+      <created>1736327807645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736327807645</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mise en place d'un système de Dynamic Finders par metaprogrammation au runtime" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Update gradle.xml" />
+    <MESSAGE value="Ajout de plugin convention : java-plugins pour gérer les dépendances communes d'un projet java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout de plugin convention : java-plugins pour gérer les dépendances communes d'un projet java" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

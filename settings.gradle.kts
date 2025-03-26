@@ -14,5 +14,4 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
-include("antlr")
+include("antlr4")

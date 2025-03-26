@@ -1,5 +1,12 @@
 grammar Calc;
 
+@header {
+package com.lab.parser;
+}
+
+// Règle de départ de manière explicite
+start : expr;
+
 // Parser rules
 expr: term (('+' | '-') term)*;
 term: factor (('*' | '/') factor)*;
